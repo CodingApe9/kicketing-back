@@ -1,4 +1,5 @@
 # [배포 링크 (접속 가능)](https://kicketing.store/) 👈 클릭!
+# [이슈 & 트러블 슈팅 CodingApe9 Velog](https://velog.io/@codingape9/series/%ED%8B%B0%EC%BC%93%ED%8C%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 👈 클릭!
 
 # 프로젝트 개요 & 목표
 - 인터파크 타켓과 같은 티켓팅 서비스를 제공한다.
@@ -6,10 +7,8 @@
 - 코드 컨벤션, 이슈 등록, PR을 통한 브랜치 병합 정책 등 팀 규칙을 통해 프로젝트의 기록을 체계적으로 관리한다.
 - 많은 트래픽을 안정적으로 처리하고 신뢰성 있는 티켓팅 서비스를 제공하기 위해 트랜잭션 관리를 최적화한다.
 
-
 # 구조도
 <img width="987" alt="image" src="https://github.com/user-attachments/assets/365ef6e2-38c2-4f50-8a3f-931d0431b0dd">
-
 
 # DB ERD
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/9e5b66c5-be72-43ad-ad5f-fac8852c8f85">
