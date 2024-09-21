@@ -80,3 +80,5 @@
 
 ## 검색
 <img width="1398" alt="image" src="https://github.com/user-attachments/assets/6009c9eb-3c82-4baa-8013-dae7455bcb71">
+
+<img width="1457" alt="image" src="https://github.com/user-attachments/assets/04333a01-7440-4c94-a499-783ff80a6d27">

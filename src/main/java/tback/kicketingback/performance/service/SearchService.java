@@ -23,7 +23,11 @@ public class SearchService {
 				.toList();
 		}
 
-		return performanceRepository.findByNameContainingAndGenreIn(name, genres)
+		List<String> genreValues = genres.stream()
+			.map(Genre::getValue)
+			.toList();
+
+		return performanceRepository.findByNameContainingAndGenreIn(name, genreValues)
 			.stream()
 			.map(SearchPerformance::from)
 			.toList();

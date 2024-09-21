@@ -15,6 +15,6 @@ public interface PerformanceRepository extends JpaRepository<Performance, Long> 
 
 	List<Performance> findByNameContaining(String name);
 
-	List<Performance> findByNameContainingAndGenreIn(String name, List<Genre> genres);
+	List<Performance> findByNameContainingAndGenreIn(String name, List<String> genres);
 
 }
